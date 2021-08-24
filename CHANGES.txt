@@ -1,3 +1,6 @@
+1.1.1 - 2021/24/08
+* Improves the typeCheck during create_map
+
 1.1.0 - 2019/07/13
 * Add basic support for nested object, thanks [@direbearform](https://github.com/direbearform)
 
